@@ -24,3 +24,6 @@ Install React Router Dom
 npm install -g create-react-app
 npm install react-router-dom
 ```
+
+
+<Navbar.text><Link to="/">Home</Link></Navbar.text>
