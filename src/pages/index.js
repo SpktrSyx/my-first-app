@@ -1,2 +1,3 @@
 export { default as HomePage } from './Home';
-export { default as NotFound } from './NotFound';
+export { default as NotFoundPage } from './NotFound';
+export { default as ContactPage } from './Contact';

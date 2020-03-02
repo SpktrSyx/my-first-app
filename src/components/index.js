@@ -4,3 +4,4 @@ export { default as Footer } from './Footer'
 export { default as ArticleList } from './ArticleList'
 export { default as Sidebar } from './Sidebar'
 export { default as Layout } from './Layout';
+export { default as ContactForm } from './ContactForm'
