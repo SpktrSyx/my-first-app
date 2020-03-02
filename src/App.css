@@ -1,4 +1,23 @@
-.App {
+.title {
+  text-align: center;
+}
+
+.title.red {
+  color: red;
+}
+
+.title.blue {
+  color: blue;
+}
+
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1em;
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +54,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
